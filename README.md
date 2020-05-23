@@ -4,7 +4,9 @@
 2. Surabhi Sood
 3. Zina Zachmann
 
+**Goal:** Prepare a database for the analysis of a correlation between Seattle pet licenses issue and an income by a zip code.
 
+---
 # ETL Project Guidelines
 
 ## Project Proposal
